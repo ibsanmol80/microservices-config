@@ -1,6 +1,7 @@
 spring:
-   application:
-           name: config-default
+  application:
+    name: config-default
+
 eureka:
   client:
     register-with-eureka: true
